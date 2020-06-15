@@ -1,2 +1,2 @@
 # Flashlight
-Flashlite for BipOS
+Flashlight for BipOS
