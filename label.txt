@@ -1,0 +1,7 @@
+Flashlight
+RU	Фонарик
+IT	Torcia
+ES	Linterna
+FR	Lanterne
+DE	Laterne
+GR	Φανάρι

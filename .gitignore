@@ -1,0 +1,7 @@
+asset/
+*.elf
+*.bak
+.*.bak
+*.o
+*.map
+foo
