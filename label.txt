@@ -3,5 +3,5 @@ RU	Фонарик
 IT	Torcia
 ES	Linterna
 FR	Lanterne
-DE	Laterne
+DE	Taschenlampe
 GR	Φανάρι
